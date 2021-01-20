@@ -1,10 +1,4 @@
 /*
-      object-assign
-      (c) Sindre Sorhus
-      @license MIT
-      */
-
-/*
 object-assign
 (c) Sindre Sorhus
 @license MIT
@@ -15,6 +9,12 @@ Papa Parse
 v5.2.0
 https://github.com/mholt/PapaParse
 License: MIT
+*/
+
+/*!
+  Copyright (c) 2017 Jed Watson.
+  Licensed under the MIT License (MIT), see
+  http://jedwatson.github.io/classnames
 */
 
 /**

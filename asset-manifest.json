@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.2a254ed3.chunk.css",
-    "main.js": "/static/js/main.34a13a47.chunk.js",
-    "main.js.map": "/static/js/main.34a13a47.chunk.js.map",
+    "main.css": "/static/css/main.28fbe90f.chunk.css",
+    "main.js": "/static/js/main.2ff2eec8.chunk.js",
+    "main.js.map": "/static/js/main.2ff2eec8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.30f34e61.js",
     "runtime-main.js.map": "/static/js/runtime-main.30f34e61.js.map",
-    "static/js/2.accabf22.chunk.js": "/static/js/2.accabf22.chunk.js",
-    "static/js/2.accabf22.chunk.js.map": "/static/js/2.accabf22.chunk.js.map",
+    "static/js/2.54cdc25a.chunk.js": "/static/js/2.54cdc25a.chunk.js",
+    "static/js/2.54cdc25a.chunk.js.map": "/static/js/2.54cdc25a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3ceee05e23996a388566ed73a10dd3ba.js": "/precache-manifest.3ceee05e23996a388566ed73a10dd3ba.js",
+    "precache-manifest.86439d5d0a1d43746c7d28b9f9264e27.js": "/precache-manifest.86439d5d0a1d43746c7d28b9f9264e27.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.2a254ed3.chunk.css.map": "/static/css/main.2a254ed3.chunk.css.map",
-    "static/js/2.accabf22.chunk.js.LICENSE.txt": "/static/js/2.accabf22.chunk.js.LICENSE.txt",
+    "static/css/main.28fbe90f.chunk.css.map": "/static/css/main.28fbe90f.chunk.css.map",
+    "static/js/2.54cdc25a.chunk.js.LICENSE.txt": "/static/js/2.54cdc25a.chunk.js.LICENSE.txt",
     "static/media/1.png": "/static/media/1.4d0480a9.png",
     "static/media/2.png": "/static/media/2.fa9b8e20.png",
     "static/media/3.png": "/static/media/3.e113db46.png",
@@ -41,6 +41,7 @@
     "static/media/Physics.png": "/static/media/Physics.af49f597.png",
     "static/media/Sandoval.png": "/static/media/Sandoval.94a205cb.png",
     "static/media/SetTheory.png": "/static/media/SetTheory.6cb0cf93.png",
+    "static/media/SetTheoryFlyer.jpg": "/static/media/SetTheoryFlyer.0a7445f5.jpg",
     "static/media/Tutoring.png": "/static/media/Tutoring.2287f0ab.png",
     "static/media/Vuong.jpg": "/static/media/Vuong.66835135.jpg",
     "static/media/Yang.jpg": "/static/media/Yang.ba5b1837.jpg",
@@ -123,8 +124,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.30f34e61.js",
-    "static/js/2.accabf22.chunk.js",
-    "static/css/main.2a254ed3.chunk.css",
-    "static/js/main.34a13a47.chunk.js"
+    "static/js/2.54cdc25a.chunk.js",
+    "static/css/main.28fbe90f.chunk.css",
+    "static/js/main.2ff2eec8.chunk.js"
   ]
 }
