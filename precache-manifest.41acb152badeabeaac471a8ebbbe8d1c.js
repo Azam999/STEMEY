@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9c7a700c1359e22c97f9c47c631d3443",
+    "revision": "05ccfbb4fd0273697f371e1129ee5de8",
     "url": "/index.html"
   },
   {
-    "revision": "61980b08f9ea0cdd4bb2",
+    "revision": "0ea04895248daa55169e",
     "url": "/static/css/main.28fbe90f.chunk.css"
   },
   {
-    "revision": "9f973b7d7d251129039e",
-    "url": "/static/js/2.9df2c035.chunk.js"
+    "revision": "25e42a2e7cb065dd91c2",
+    "url": "/static/js/2.b913a923.chunk.js"
   },
   {
     "revision": "65ebd420f4faa6305eed6eeb0786b0ac",
-    "url": "/static/js/2.9df2c035.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.b913a923.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "61980b08f9ea0cdd4bb2",
-    "url": "/static/js/main.ad1fba5f.chunk.js"
+    "revision": "0ea04895248daa55169e",
+    "url": "/static/js/main.dec0a127.chunk.js"
   },
   {
     "revision": "064652e579a9570f9ab6",
@@ -138,10 +138,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6cb0cf939cd6acbe7a2959c4c9c145ea",
     "url": "/static/media/SetTheory.6cb0cf93.png"
-  },
-  {
-    "revision": "0a7445f5e75a48fff6f316ef6f1eedec",
-    "url": "/static/media/SetTheoryFlyer.0a7445f5.jpg"
   },
   {
     "revision": "2287f0ab154f9f5d91ccf407e3790c1c",
@@ -430,6 +426,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0e6b3f9eb4bf750d53819ae017b0621d",
     "url": "/static/media/srishti.0e6b3f9e.jpeg"
+  },
+  {
+    "revision": "7fe548dc5efef65182e8b390b908e5b6",
+    "url": "/static/media/stemworld2logo.7fe548dc.png"
+  },
+  {
+    "revision": "cd0a096587386466c4120bfd8e20dd6e",
+    "url": "/static/media/stemworld2schedule.cd0a0965.jpg"
+  },
+  {
+    "revision": "d96d433e368442411c254ed5546bd05a",
+    "url": "/static/media/stemworld2sponsor1.d96d433e.png"
+  },
+  {
+    "revision": "7b069c3e3f0cf0d3a61891f983fd157a",
+    "url": "/static/media/stemworld2sponsor2.7b069c3e.png"
   },
   {
     "revision": "f6a34aa98fa74c18220329e17f379ac1",

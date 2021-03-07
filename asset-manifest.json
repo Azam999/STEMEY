@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.28fbe90f.chunk.css",
-    "main.js": "/static/js/main.ad1fba5f.chunk.js",
-    "main.js.map": "/static/js/main.ad1fba5f.chunk.js.map",
+    "main.js": "/static/js/main.dec0a127.chunk.js",
+    "main.js.map": "/static/js/main.dec0a127.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.30f34e61.js",
     "runtime-main.js.map": "/static/js/runtime-main.30f34e61.js.map",
-    "static/js/2.9df2c035.chunk.js": "/static/js/2.9df2c035.chunk.js",
-    "static/js/2.9df2c035.chunk.js.map": "/static/js/2.9df2c035.chunk.js.map",
+    "static/js/2.b913a923.chunk.js": "/static/js/2.b913a923.chunk.js",
+    "static/js/2.b913a923.chunk.js.map": "/static/js/2.b913a923.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.8500d15810a1a9da02409581cfb4f8a4.js": "/precache-manifest.8500d15810a1a9da02409581cfb4f8a4.js",
+    "precache-manifest.41acb152badeabeaac471a8ebbbe8d1c.js": "/precache-manifest.41acb152badeabeaac471a8ebbbe8d1c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.28fbe90f.chunk.css.map": "/static/css/main.28fbe90f.chunk.css.map",
-    "static/js/2.9df2c035.chunk.js.LICENSE.txt": "/static/js/2.9df2c035.chunk.js.LICENSE.txt",
+    "static/js/2.b913a923.chunk.js.LICENSE.txt": "/static/js/2.b913a923.chunk.js.LICENSE.txt",
     "static/media/1.png": "/static/media/1.4d0480a9.png",
     "static/media/2.png": "/static/media/2.fa9b8e20.png",
     "static/media/3.png": "/static/media/3.e113db46.png",
@@ -41,7 +41,6 @@
     "static/media/Physics.png": "/static/media/Physics.af49f597.png",
     "static/media/Sandoval.png": "/static/media/Sandoval.94a205cb.png",
     "static/media/SetTheory.png": "/static/media/SetTheory.6cb0cf93.png",
-    "static/media/SetTheoryFlyer.jpg": "/static/media/SetTheoryFlyer.0a7445f5.jpg",
     "static/media/Tutoring.png": "/static/media/Tutoring.2287f0ab.png",
     "static/media/Vuong.jpg": "/static/media/Vuong.66835135.jpg",
     "static/media/Yang.jpg": "/static/media/Yang.ba5b1837.jpg",
@@ -113,6 +112,10 @@
     "static/media/speakers.csv": "/static/media/speakers.871e4bfc.csv",
     "static/media/srinjoy.png": "/static/media/srinjoy.2e8b38bf.png",
     "static/media/srishti.jpeg": "/static/media/srishti.0e6b3f9e.jpeg",
+    "static/media/stemworld2logo.png": "/static/media/stemworld2logo.7fe548dc.png",
+    "static/media/stemworld2schedule.jpg": "/static/media/stemworld2schedule.cd0a0965.jpg",
+    "static/media/stemworld2sponsor1.png": "/static/media/stemworld2sponsor1.d96d433e.png",
+    "static/media/stemworld2sponsor2.png": "/static/media/stemworld2sponsor2.7b069c3e.png",
     "static/media/tanton.jpg": "/static/media/tanton.f6a34aa9.jpg",
     "static/media/tanvirao.jpeg": "/static/media/tanvirao.1e9399e0.jpeg",
     "static/media/thomas-hull-origami.jpg": "/static/media/thomas-hull-origami.abac4f72.jpg",
@@ -124,8 +127,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.30f34e61.js",
-    "static/js/2.9df2c035.chunk.js",
+    "static/js/2.b913a923.chunk.js",
     "static/css/main.28fbe90f.chunk.css",
-    "static/js/main.ad1fba5f.chunk.js"
+    "static/js/main.dec0a127.chunk.js"
   ]
 }
