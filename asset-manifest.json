@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.b2c27694.chunk.css",
-    "main.js": "/static/js/main.e1bcd5aa.chunk.js",
-    "main.js.map": "/static/js/main.e1bcd5aa.chunk.js.map",
+    "main.js": "/static/js/main.d81af594.chunk.js",
+    "main.js.map": "/static/js/main.d81af594.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.30f34e61.js",
     "runtime-main.js.map": "/static/js/runtime-main.30f34e61.js.map",
-    "static/js/2.0de0c7e2.chunk.js": "/static/js/2.0de0c7e2.chunk.js",
-    "static/js/2.0de0c7e2.chunk.js.map": "/static/js/2.0de0c7e2.chunk.js.map",
+    "static/js/2.a4c23072.chunk.js": "/static/js/2.a4c23072.chunk.js",
+    "static/js/2.a4c23072.chunk.js.map": "/static/js/2.a4c23072.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.33cd92a7574911ab221977af5dbe405f.js": "/precache-manifest.33cd92a7574911ab221977af5dbe405f.js",
+    "precache-manifest.fa96921f2d2a134c2f5a53d1f4c6a6cd.js": "/precache-manifest.fa96921f2d2a134c2f5a53d1f4c6a6cd.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.b2c27694.chunk.css.map": "/static/css/main.b2c27694.chunk.css.map",
-    "static/js/2.0de0c7e2.chunk.js.LICENSE.txt": "/static/js/2.0de0c7e2.chunk.js.LICENSE.txt",
+    "static/js/2.a4c23072.chunk.js.LICENSE.txt": "/static/js/2.a4c23072.chunk.js.LICENSE.txt",
     "static/media/1.png": "/static/media/1.4d0480a9.png",
     "static/media/2.png": "/static/media/2.fa9b8e20.png",
     "static/media/3.png": "/static/media/3.e113db46.png",
@@ -39,6 +39,7 @@
     "static/media/MolBio.png": "/static/media/MolBio.2a88abb6.png",
     "static/media/NewStemeyLogo.png": "/static/media/NewStemeyLogo.85d4be53.png",
     "static/media/Physics.png": "/static/media/Physics.af49f597.png",
+    "static/media/STEMWorldScheduleSequelFinal.csv": "/static/media/STEMWorldScheduleSequelFinal.9e24ab67.csv",
     "static/media/Sandoval.png": "/static/media/Sandoval.94a205cb.png",
     "static/media/SetTheory.png": "/static/media/SetTheory.6cb0cf93.png",
     "static/media/Tutoring.png": "/static/media/Tutoring.2287f0ab.png",
@@ -127,8 +128,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.30f34e61.js",
-    "static/js/2.0de0c7e2.chunk.js",
+    "static/js/2.a4c23072.chunk.js",
     "static/css/main.b2c27694.chunk.css",
-    "static/js/main.e1bcd5aa.chunk.js"
+    "static/js/main.d81af594.chunk.js"
   ]
 }
