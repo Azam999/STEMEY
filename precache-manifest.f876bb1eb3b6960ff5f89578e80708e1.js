@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3bbe9c6637859c541639579b32170048",
+    "revision": "8bfe01f1bc6724f8d11ac025245dce14",
     "url": "/index.html"
   },
   {
-    "revision": "d159e8e10a58cadc8727",
-    "url": "/static/css/main.43bda621.chunk.css"
+    "revision": "bb6e9a7b3fb86380a319",
+    "url": "/static/css/main.916096b4.chunk.css"
   },
   {
-    "revision": "547f70f9b05b1a7a35e8",
-    "url": "/static/js/2.c21c6fb8.chunk.js"
+    "revision": "6249ba033179bea3e45d",
+    "url": "/static/js/2.bfc39c88.chunk.js"
   },
   {
     "revision": "65ebd420f4faa6305eed6eeb0786b0ac",
-    "url": "/static/js/2.c21c6fb8.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.bfc39c88.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d159e8e10a58cadc8727",
-    "url": "/static/js/main.7285b056.chunk.js"
+    "revision": "bb6e9a7b3fb86380a319",
+    "url": "/static/js/main.2212c10b.chunk.js"
   },
   {
     "revision": "064652e579a9570f9ab6",
@@ -510,6 +510,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7b069c3e3f0cf0d3a61891f983fd157a",
     "url": "/static/media/stemworld2sponsor2.7b069c3e.png"
+  },
+  {
+    "revision": "757f54799463ef75a94e57f663cf104e",
+    "url": "/static/media/stemworld2wizprodigy.757f5479.png"
   },
   {
     "revision": "f6a34aa98fa74c18220329e17f379ac1",
