@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.b3c65d74.chunk.css",
-    "main.js": "/static/js/main.03450180.chunk.js",
-    "main.js.map": "/static/js/main.03450180.chunk.js.map",
+    "main.js": "/static/js/main.8344cb26.chunk.js",
+    "main.js.map": "/static/js/main.8344cb26.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.30f34e61.js",
     "runtime-main.js.map": "/static/js/runtime-main.30f34e61.js.map",
-    "static/js/2.cae072ea.chunk.js": "/static/js/2.cae072ea.chunk.js",
-    "static/js/2.cae072ea.chunk.js.map": "/static/js/2.cae072ea.chunk.js.map",
+    "static/js/2.72d7b223.chunk.js": "/static/js/2.72d7b223.chunk.js",
+    "static/js/2.72d7b223.chunk.js.map": "/static/js/2.72d7b223.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.29fd19a34fe3e27863ea205030302288.js": "/precache-manifest.29fd19a34fe3e27863ea205030302288.js",
+    "precache-manifest.503857f6314cfef8dcff6ab27ee25e60.js": "/precache-manifest.503857f6314cfef8dcff6ab27ee25e60.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.b3c65d74.chunk.css.map": "/static/css/main.b3c65d74.chunk.css.map",
-    "static/js/2.cae072ea.chunk.js.LICENSE.txt": "/static/js/2.cae072ea.chunk.js.LICENSE.txt",
+    "static/js/2.72d7b223.chunk.js.LICENSE.txt": "/static/js/2.72d7b223.chunk.js.LICENSE.txt",
     "static/media/1.png": "/static/media/1.4d0480a9.png",
     "static/media/2.png": "/static/media/2.fa9b8e20.png",
     "static/media/2020 headshot as jpeg (1).jp2": "/static/media/2020 headshot as jpeg (1).e814f555.jp2",
@@ -78,6 +78,11 @@
     "static/media/changliu.jpg": "/static/media/changliu.ed9bd320.jpg",
     "static/media/chon.jpg": "/static/media/chon.a5969d1b.jpg",
     "static/media/christian.png": "/static/media/christian.b1399351.png",
+    "static/media/cic.png": "/static/media/cic.57a97f73.png",
+    "static/media/cic1.png": "/static/media/cic1.dff52cdc.png",
+    "static/media/cic2.png": "/static/media/cic2.643fdc8d.png",
+    "static/media/cic3.png": "/static/media/cic3.cdcc0dd1.png",
+    "static/media/cic4.png": "/static/media/cic4.18a500a4.png",
     "static/media/constantinescu.jpg": "/static/media/constantinescu.6694bbb0.jpg",
     "static/media/cuellar.png": "/static/media/cuellar.ab45d456.png",
     "static/media/daniel.png": "/static/media/daniel.bbe7d879.png",
@@ -146,8 +151,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.30f34e61.js",
-    "static/js/2.cae072ea.chunk.js",
+    "static/js/2.72d7b223.chunk.js",
     "static/css/main.b3c65d74.chunk.css",
-    "static/js/main.03450180.chunk.js"
+    "static/js/main.8344cb26.chunk.js"
   ]
 }
