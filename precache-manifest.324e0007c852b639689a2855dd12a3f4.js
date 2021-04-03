@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ddf93ae98fa1eaee5f876f366659e1a1",
+    "revision": "b0dbb0f2f55f9ec35a0ecd7df0c25bda",
     "url": "/index.html"
   },
   {
-    "revision": "5821b25e2c103b1eee92",
+    "revision": "73792a42a961ffa572f3",
     "url": "/static/css/main.b3c65d74.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.72d7b223.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5821b25e2c103b1eee92",
-    "url": "/static/js/main.693a468c.chunk.js"
+    "revision": "73792a42a961ffa572f3",
+    "url": "/static/js/main.e0e821e7.chunk.js"
   },
   {
     "revision": "064652e579a9570f9ab6",
@@ -30,10 +30,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fa9b8e20a562e6678f5307dab67bf7ec",
     "url": "/static/media/2.fa9b8e20.png"
-  },
-  {
-    "revision": "e814f5558c902f65287a84a1fbf2bea6",
-    "url": "/static/media/2020 headshot as jpeg (1).e814f555.jp2"
   },
   {
     "revision": "e113db46af6f908f97a89d5e0b2ff916",
@@ -66,10 +62,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ea2265e431549d29f9d0ccdf307da17e",
     "url": "/static/media/Anatomy.ea2265e4.png"
-  },
-  {
-    "revision": "8ae49a611625486916b04c82d035e002",
-    "url": "/static/media/Azevedo pic UCF.8ae49a61.jpg"
   },
   {
     "revision": "b2816fb6ce1727db49dca2d36942cb46",
@@ -156,6 +148,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/MolBio.2a88abb6.png"
   },
   {
+    "revision": "f527c8ac8549f90ec62d5012281069ab",
+    "url": "/static/media/Monica.f527c8ac.jpg"
+  },
+  {
     "revision": "85d4be53bf29a803b2c9af367c36f917",
     "url": "/static/media/NewStemeyLogo.85d4be53.png"
   },
@@ -164,8 +160,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Physics.af49f597.png"
   },
   {
-    "revision": "741e943f61da7fc497c1dbce713aca33",
-    "url": "/static/media/STEMWorldScheduleSequelFinal.741e943f.csv"
+    "revision": "888df5275e4c4d5affe599c23e59617b",
+    "url": "/static/media/STEMWorldScheduleSequelFinal.888df527.csv"
   },
   {
     "revision": "94a205cb973b5c76b411c1b947c7cc33",
@@ -330,6 +326,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1c8eeb52f2ce25762eb9016a9b9ef332",
     "url": "/static/media/diana.1c8eeb52.jpg"
+  },
+  {
+    "revision": "91d9dd7f43d19bc3fc6ac70aa30c8d12",
+    "url": "/static/media/eleanor.91d9dd7f.jpeg"
   },
   {
     "revision": "1e979308d97bcee103a9c85deba54e5d",
