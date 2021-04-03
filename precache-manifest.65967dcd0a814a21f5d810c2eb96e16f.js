@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b0dbb0f2f55f9ec35a0ecd7df0c25bda",
+    "revision": "cbad566127541aa6331e717f721dea6a",
     "url": "/index.html"
   },
   {
-    "revision": "73792a42a961ffa572f3",
-    "url": "/static/css/main.b3c65d74.chunk.css"
+    "revision": "fc7769a51a8a3a81bbc5",
+    "url": "/static/css/2.bf0413c3.chunk.css"
   },
   {
-    "revision": "b040c118eeed2dd26116",
-    "url": "/static/js/2.72d7b223.chunk.js"
+    "revision": "423b9f4c62171b928f66",
+    "url": "/static/css/main.efa1c94d.chunk.css"
+  },
+  {
+    "revision": "fc7769a51a8a3a81bbc5",
+    "url": "/static/js/2.67e36a51.chunk.js"
   },
   {
     "revision": "65ebd420f4faa6305eed6eeb0786b0ac",
-    "url": "/static/js/2.72d7b223.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.67e36a51.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "73792a42a961ffa572f3",
-    "url": "/static/js/main.e0e821e7.chunk.js"
+    "revision": "423b9f4c62171b928f66",
+    "url": "/static/js/main.6f6d807b.chunk.js"
   },
   {
     "revision": "064652e579a9570f9ab6",
@@ -288,26 +292,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/christian.b1399351.png"
   },
   {
-    "revision": "57a97f739aa0b33fbe77472eb3a85a0b",
-    "url": "/static/media/cic.57a97f73.png"
-  },
-  {
-    "revision": "dff52cdcd344252c7a6c16427a89c717",
-    "url": "/static/media/cic1.dff52cdc.png"
-  },
-  {
-    "revision": "643fdc8d98925810337ea97c341833d1",
-    "url": "/static/media/cic2.643fdc8d.png"
-  },
-  {
-    "revision": "cdcc0dd14b061ebaf3b41dc6cafc1d33",
-    "url": "/static/media/cic3.cdcc0dd1.png"
-  },
-  {
-    "revision": "18a500a4fb23e99f31a91288cc9803ce",
-    "url": "/static/media/cic4.18a500a4.png"
-  },
-  {
     "revision": "6694bbb06278d7cbfc5e48be97461316",
     "url": "/static/media/constantinescu.6694bbb0.jpg"
   },
@@ -494,6 +478,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2816078bae30b80f98fdb9d150cb9da6",
     "url": "/static/media/sarahchang.2816078b.jpg"
+  },
+  {
+    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
+    "url": "/static/media/slick.b7c9e1e4.woff"
+  },
+  {
+    "revision": "ced611daf7709cc778da928fec876475",
+    "url": "/static/media/slick.ced611da.eot"
+  },
+  {
+    "revision": "d41f55a78e6f49a5512878df1737e58a",
+    "url": "/static/media/slick.d41f55a7.ttf"
+  },
+  {
+    "revision": "f97e3bbf73254b0112091d0192f17aec",
+    "url": "/static/media/slick.f97e3bbf.svg"
   },
   {
     "revision": "0d3f1fe0da11898ca402af265de2a592",
