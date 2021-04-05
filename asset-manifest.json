@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.efa1c94d.chunk.css",
-    "main.js": "/static/js/main.6f6d807b.chunk.js",
-    "main.js.map": "/static/js/main.6f6d807b.chunk.js.map",
+    "main.css": "/static/css/main.7f8fe123.chunk.css",
+    "main.js": "/static/js/main.486e4888.chunk.js",
+    "main.js.map": "/static/js/main.486e4888.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.30f34e61.js",
     "runtime-main.js.map": "/static/js/runtime-main.30f34e61.js.map",
     "static/css/2.bf0413c3.chunk.css": "/static/css/2.bf0413c3.chunk.css",
-    "static/js/2.67e36a51.chunk.js": "/static/js/2.67e36a51.chunk.js",
-    "static/js/2.67e36a51.chunk.js.map": "/static/js/2.67e36a51.chunk.js.map",
+    "static/js/2.c756fc9a.chunk.js": "/static/js/2.c756fc9a.chunk.js",
+    "static/js/2.c756fc9a.chunk.js.map": "/static/js/2.c756fc9a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.65967dcd0a814a21f5d810c2eb96e16f.js": "/precache-manifest.65967dcd0a814a21f5d810c2eb96e16f.js",
+    "precache-manifest.fe93fe8ef4f7544c93807f5834c677d9.js": "/precache-manifest.fe93fe8ef4f7544c93807f5834c677d9.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.bf0413c3.chunk.css.map": "/static/css/2.bf0413c3.chunk.css.map",
-    "static/css/main.efa1c94d.chunk.css.map": "/static/css/main.efa1c94d.chunk.css.map",
-    "static/js/2.67e36a51.chunk.js.LICENSE.txt": "/static/js/2.67e36a51.chunk.js.LICENSE.txt",
+    "static/css/main.7f8fe123.chunk.css.map": "/static/css/main.7f8fe123.chunk.css.map",
+    "static/js/2.c756fc9a.chunk.js.LICENSE.txt": "/static/js/2.c756fc9a.chunk.js.LICENSE.txt",
     "static/media/1.png": "/static/media/1.4d0480a9.png",
     "static/media/2.png": "/static/media/2.fa9b8e20.png",
     "static/media/3.png": "/static/media/3.e113db46.png",
@@ -95,6 +95,7 @@
     "static/media/graham.jpg": "/static/media/graham.cc3f1c5b.jpg",
     "static/media/head-brains.png": "/static/media/head-brains.f8158aa5.png",
     "static/media/head-cross.png": "/static/media/head-cross.931c4b69.png",
+    "static/media/instagram_logo.png": "/static/media/instagram_logo.1d9b5ce8.png",
     "static/media/jed.jpg": "/static/media/jed.32c21387.jpg",
     "static/media/jennifer.jpg": "/static/media/jennifer.47fa913d.jpg",
     "static/media/jia.jpg": "/static/media/jia.e90da765.jpg",
@@ -150,8 +151,8 @@
   "entrypoints": [
     "static/js/runtime-main.30f34e61.js",
     "static/css/2.bf0413c3.chunk.css",
-    "static/js/2.67e36a51.chunk.js",
-    "static/css/main.efa1c94d.chunk.css",
-    "static/js/main.6f6d807b.chunk.js"
+    "static/js/2.c756fc9a.chunk.js",
+    "static/css/main.7f8fe123.chunk.css",
+    "static/js/main.486e4888.chunk.js"
   ]
 }
