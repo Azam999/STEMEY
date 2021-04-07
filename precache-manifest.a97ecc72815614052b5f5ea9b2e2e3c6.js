@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0ed4b006f6fb28f64aee0fd5349c0f9d",
+    "revision": "cda166467ad93bafcf66f26b943f1150",
     "url": "/index.html"
   },
   {
-    "revision": "e59b6a24824544a4cb79",
+    "revision": "48b43115f1419e5e4316",
     "url": "/static/css/2.bf0413c3.chunk.css"
   },
   {
-    "revision": "8ee6ca0daf34ba7f931e",
-    "url": "/static/css/main.7f8fe123.chunk.css"
+    "revision": "f79ae88968895717b464",
+    "url": "/static/css/main.3a04b705.chunk.css"
   },
   {
-    "revision": "e59b6a24824544a4cb79",
-    "url": "/static/js/2.e624e479.chunk.js"
+    "revision": "48b43115f1419e5e4316",
+    "url": "/static/js/2.5fac2deb.chunk.js"
   },
   {
     "revision": "65ebd420f4faa6305eed6eeb0786b0ac",
-    "url": "/static/js/2.e624e479.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.5fac2deb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8ee6ca0daf34ba7f931e",
-    "url": "/static/js/main.d430ecab.chunk.js"
+    "revision": "f79ae88968895717b464",
+    "url": "/static/js/main.a8f3a574.chunk.js"
   },
   {
     "revision": "064652e579a9570f9ab6",
@@ -440,10 +440,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/navaneet.fd33a098.jpg"
   },
   {
-    "revision": "dd6555f20d757ba5335702f51f4c4901",
-    "url": "/static/media/newstemworld.dd6555f2.png"
-  },
-  {
     "revision": "7b6b8dcc8cf52a942eeeab0acdb1b01b",
     "url": "/static/media/nick.7b6b8dcc.png"
   },
@@ -574,5 +570,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1431681cd527cb13830fbcc3b42b83ef",
     "url": "/static/media/yulia.1431681c.JPG"
+  },
+  {
+    "revision": "c0539a8ba88c335ba2a05caacdac9149",
+    "url": "/static/media/yulia_volunteer_of_the_month.c0539a8b.jpg"
   }
 ]);
